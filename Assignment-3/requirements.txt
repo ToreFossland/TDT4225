@@ -1,0 +1,13 @@
+Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-q_dytog6/bottleneck_1648041541248/work
+certifi==2022.9.24
+haversine @ file:///home/conda/feedstock_root/build_artifacts/haversine_1662299098807/work
+numexpr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_86f7f9a1-aad0-44a0-8df1-c3ccaec3543b4tgd344r/croots/recipe/numexpr_1656071947451/work
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ba5c3eaa-be93-4f42-ae24-fa720a3c6627m_sp7nbj/croots/recipe/numpy_and_numpy_base_1652801688716/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.2
+pymongo==3.12.0
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_830e8540-4c59-42fe-9515-a6f79c24ff6dh653xa67/croots/recipe/pytz_1654762630628/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tabulate @ file:///home/conda/feedstock_root/build_artifacts/tabulate_1665138452165/work
